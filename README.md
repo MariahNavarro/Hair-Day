@@ -50,6 +50,3 @@ npm run dev
 ```
 ## Desenvolvedora
 Feito por Mariah Navarro
-
-```bash id="q7t2zf"
-
